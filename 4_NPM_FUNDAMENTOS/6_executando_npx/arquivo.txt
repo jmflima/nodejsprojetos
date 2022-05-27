@@ -1,0 +1,2 @@
+npx cowsay -d "Helow World"
+npx cowsay -d "Mensagem" (vaquinha com olhos fechados)
